@@ -28,4 +28,6 @@ make sure to add the downloaded model into the work space
  ### frontend
  open your frontend code a start it with the live server in vs code
 
+ ## Now the bot is ready to asnwer your questions
+
  
