@@ -11,11 +11,15 @@ Make sure to prepare the dataset for the QA based llm chat is prepared in the .t
 python -m venv myenv
 ```
 ### Activating Environment
+```
 myenv/Scripts/Activate
+```
 
 ### Dependencies
 install all the libraries mentioned in the requirements.txt file by running this code
+```
 pip install -r requirements.txt
+```
 
 ### Downloading Local llama Model
 you can download local llama model from this Huggindface repo **TheBloke/Llama-2-7B-Chat-GGML**  https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML
