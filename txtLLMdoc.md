@@ -7,8 +7,9 @@ Make sure to prepare the dataset for the QA based llm chat is prepared in the .t
 ## Environment
 
 ### creating environment 
+```
 python -m venv myenv
-
+```
 ### Activating Environment
 myenv/Scripts/Activate
 
