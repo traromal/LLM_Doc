@@ -4,7 +4,7 @@
 
 Make sure to prepare the dataset for the QA based llm chat is prepared in the .txt format 
 
-## Activating Environment
+## Environment
 
 ### creating environment 
 python -m venv myenv
