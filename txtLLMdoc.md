@@ -17,7 +17,7 @@ install all the libraries mentioned in the requirements.txt file by running this
 pip install -r requirements.txt
 
 ### Downloading Local llama Model
-you can download local llama model from this Huggindface repo **TheBloke/Llama-2-7B-Chat-GGML** 
+you can download local llama model from this Huggindface repo **TheBloke/Llama-2-7B-Chat-GGML**  https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML
 make sure to add the downloaded model into the work space
 
 ### Running the main code
