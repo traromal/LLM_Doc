@@ -21,3 +21,10 @@ To run the model open your terminal and run the following command
 ```
 python app.py
 ```
+the model will be active and running in the **local host 127.0.0.1**
+
+## Frontend 
+
+open your frontend code a start it with the live server in vs code
+
+## Now the bot is ready to answer your questions based on the Document
