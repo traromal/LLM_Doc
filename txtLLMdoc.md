@@ -30,9 +30,9 @@ make sure to add the downloaded model into the work space
 
  Now your model wulll be up and running in the loacl host
 
- ### frontend
+ ## frontend
  open your frontend code a start it with the live server in vs code
 
- ## Now the bot is ready to asnwer your questions
+ ## Now the bot is ready to answer your questions based on the Document
 
  
